@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Sorting
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=list
+comment2.target=boolean\ isSorted(int[])
+comment2.text=method\ that\ returns\ true\ if\ alread\ sorted\ in\ \r\nincreasing\ order,\ else\ false\r\n
+numComments=3
